@@ -1,0 +1,150 @@
+.bgColorHeader{
+    background-color: #000324;
+}
+.headerFont{
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+}
+.headerPosition{
+    position: relative;
+    top: 68px;
+}
+.titleFont{
+    font-family: 'Dosis', sans-serif;
+    font-size: 45px;
+    color: #E5FEFF;
+    line-height: 57px;
+}
+.hero-1{
+    background-image: url("../images/header.jpg");
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.sansProText{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    color: #E5FEFF;
+    line-height: 20px;
+}
+.heroPadding{
+    background-color: #000324;
+    opacity: 80%;
+    margin: 150px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.welcomeToText{
+    font-family: 'Dosis', sans-serif;
+    font-size: 35px;
+    color: #1A1B26;
+    line-height: 44px;
+}
+.nestledText{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    color: #1A1B26;
+    line-height: 20px;
+}
+
+.topPadding{
+    padding-top: 80px;
+}
+
+.hero-2{
+    background-image: url("../images/bg2.jpg");
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.roomText{
+    font-family: 'Dosis', sans-serif;
+    font-size: 35px;
+    color: #FFFFFF;
+    line-height: 44px;
+}
+.roomTitleText{
+    font-family: 'Dosis', sans-serif;
+    font-size: 25px;
+    color: #1A1B26;
+    line-height: 32px;
+}
+.roomFactsText{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    color: #1A1B26;
+    line-height: 20px;
+}
+.bottomPadding{
+    padding-bottom: 80px;
+}
+.priceText{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    color: #1F51A8;
+    line-height: 20px;
+}
+
+.hero-3{
+    background-image: url("../images/bg.jpg");
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.amenitiesText{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    color: #FFFFFF;
+    line-height: 20px;
+}
+.amenitiesPadding{
+    padding-bottom: 50px;
+}
+.amenitiesPadding2{
+    padding-left: 150px;
+}
+.amenitiesBoldText{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+.amenitiesResize{
+    height: 150px;
+}
+.hero-4{
+    background-image: url("../images/hamsterreserve.jpg");
+    height: 100%;
+    background-position: center;
+    background-size: initial;
+}
+.hourIMG{
+    height: 101px;
+    width: 150px;
+}
+.bfastIMG{
+    height: 104px;
+    width: 150px;
+}
+.valetIMG{
+    height: 115px;
+}
+.poolIMG{
+    height: 110px;
+}
+.amenititesPadding{
+    padding-bottom: 169px;
+}
+
+.reservePadding{
+    background-color: #000324;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.awardResize{
+    width: 200px;
+}
